@@ -1,7 +1,3 @@
-# My Project Title
-
-A brief, high-level description of what your project is, what it does, and who it's for.
-
 ## Repository Structure
 
 This repository is organized into two main directories:
