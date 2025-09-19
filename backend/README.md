@@ -10,8 +10,8 @@ Make sure you have Node.js and npm installed on your system.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd simple-express-api
+    git clone https://github.com/ProArash/simple-task-creatingly
+    cd simple-task-creatingly/backend
     ```
 2.  Install the dependencies:
     ```bash
